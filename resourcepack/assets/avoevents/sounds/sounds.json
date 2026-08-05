@@ -1,0 +1,10 @@
+{
+  "hideandseek.small_world": {
+    "sounds": [
+      {
+        "name": "avoevents:hideandseek/small_world",
+        "stream": true
+      }
+    ]
+  }
+}
